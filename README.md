@@ -84,14 +84,7 @@ UPI_Fraud_Transaction_Analysis/
 ---
 
 ##  Dashboard Preview
-
-> Add a screenshot of your dashboard here.
-
-Example:
-
-```markdown
-![Dashboard](dashboard.png)
-```
+<img width="1012" height="535" alt="dashbaord" src="https://github.com/user-attachments/assets/2b1c5fe1-2824-42f0-b72d-141aeaa00772" />
 
 ---
 
